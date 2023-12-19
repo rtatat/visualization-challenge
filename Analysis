@@ -1,0 +1,15 @@
+In the original 249 mice dataset, it was found that the entry for the mouse designated g989 had duplicate 
+timepoint entries.
+Following the removal of g989, the 248 mice dataset was analysed.
+Analysing the summary statistics, it can be found that Capomulin and Ramicane exhibit similar outputs,
+especially when compared to the performance of all of the other drugs, which all perform relatively similarly.
+Both Capomulin and Propriva were measured significantly more than the other regimens, which can result in a bias.
+The proportion of mice genders was almost 50/50.
+Out of the four most promising drug treatments (Capomulin, Ramicane, Infubinol and Ceftamin), it can be seen that
+Capomulin and Ramicane are the best performing, with Ramicane performing slightly better than Capomulin.
+When singling out the mouse designated r554, which was treated with Capomulin, it can be observed that
+Capomulin resulted in a very sharp decline in tumor volume following the 3rd or 4th timepoint. Along the course of
+the study, r554 exhibited a continual reduction in tumor volume, eventually appearing to plateau
+at approximately 32.5 mm3 in volume. This appears to suggest a limitation in Capomulin's effectiveness.
+The correlation between mouse weight and tumor volume is 0.84, which indicates a positive relationship between
+the two.
